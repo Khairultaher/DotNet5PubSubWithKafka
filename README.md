@@ -1,5 +1,5 @@
 # DotNet5PubSubWithKafka
-# Install JRE and set environment variable path to system variable section
+## Install JRE and set environment variable path to system variable section
 JAVA_HOME=C:\java
 then add it to path section like following
 %JAVA_HOME%\bin 
@@ -7,7 +7,7 @@ open cmd and run following commands to ensure version and path
 For version: java -version
 For path: where java
 
-# Change zookeeper.properties
+## Change zookeeper.properties
 dataDir=c:/kafka/zookeeper-data
 
 # Change server.properties 
