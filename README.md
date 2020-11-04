@@ -1,4 +1,8 @@
 # DotNet5PubSubWithKafka
+## Download Kafka & 7zip
+download kafka from: https://kafka.apache.org/downloads
+then unzip it to desired directory
+
 ## Install JRE and set environment variable path to system variable section
 JAVA_HOME=C:\java
 then add it to path section like following
