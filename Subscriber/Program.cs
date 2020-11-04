@@ -23,6 +23,7 @@ namespace Subscriber
                 e.Cancel = true;
                 cts.Cancel();
             };
+
             try
             {
                 while (true)
